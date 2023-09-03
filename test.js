@@ -1,2 +1,3 @@
 let a=1,b=1,c=0;
-console.log(a+b)
+c=a+b;
+console.log(c)
